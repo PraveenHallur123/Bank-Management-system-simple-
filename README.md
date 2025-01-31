@@ -18,6 +18,7 @@ Run the SQL script provided above.
 2️⃣ Run the PHP Project
 Place the PHP files inside the htdocs folder of XAMPP.
 Open a browser and visit:
+http://localhost/Bank%20db/index.php
 http://localhost/register.php (Register User)
 http://localhost/login.php (Login)
 http://localhost/dashboard.php (Dashboard)
